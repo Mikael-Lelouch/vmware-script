@@ -50,6 +50,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Support
 
-For issues, please open an issue on GitHub or contact me via email: your-email@domain.com.
+For issues, please open an issue on GitHub or contact me via email
 
 You can adjust specific sections such as the “Script List” and “Usage” based on your actual script content. This structure should be helpful in providing a clear overview and instructions for anyone using your repository!
